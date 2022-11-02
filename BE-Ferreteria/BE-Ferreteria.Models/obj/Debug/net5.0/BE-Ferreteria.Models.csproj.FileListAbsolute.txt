@@ -1,0 +1,12 @@
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\bin\Debug\net5.0\BE-Ferreteria.Models.deps.json
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\bin\Debug\net5.0\BE-Ferreteria.Models.dll
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\bin\Debug\net5.0\BE-Ferreteria.Models.pdb
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.csproj.AssemblyReference.cache
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.AssemblyInfoInputs.cache
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.AssemblyInfo.cs
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.csproj.CoreCompileInputs.cache
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.dll
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\refint\BE-Ferreteria.Models.dll
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\BE-Ferreteria.Models.pdb
+C:\Users\nsampini\source\repos\BE-Ferreteria\BE-Ferreteria.Models\obj\Debug\net5.0\ref\BE-Ferreteria.Models.dll

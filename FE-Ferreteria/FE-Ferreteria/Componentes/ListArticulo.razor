@@ -1,0 +1,24 @@
+﻿@using APIFerreteria
+
+
+<h3>Lista Articulos</h3>
+
+@if (listArticulos == null)
+{
+    <p><em>Loading....</em></p>
+}
+else
+{
+    <div class="row">
+        @foreach (var articulo in listArticulos)
+        {
+            <CardArticulo articulo="articulo"></CardArticulo>
+        }
+    </div>
+}
+
+
+@code {
+    [Parameter]
+    public List<Articulo> listArticulos { get; set; }
+}

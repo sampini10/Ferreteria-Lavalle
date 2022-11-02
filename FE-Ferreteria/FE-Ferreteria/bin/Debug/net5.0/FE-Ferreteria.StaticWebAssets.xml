@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\nsampini\source\repos\FE-Ferreteria\FE-Ferreteria\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/Radzen.Blazor" Path="C:\Users\nsampini\.nuget\packages\radzen.blazor\3.20.7\build\..\staticwebassets\" />
+</StaticWebAssets>

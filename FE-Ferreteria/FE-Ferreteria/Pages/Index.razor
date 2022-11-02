@@ -1,0 +1,34 @@
+﻿@page "/"
+@using APIFerreteria
+@using Newtonsoft.Json
+@using FE_Ferreteria.Componentes
+
+<ListArticulo listArticulos="listArticulos"></ListArticulo>
+
+@code{
+    private string sBaseAddress = "https://localhost:44384/";
+
+    HttpClient objClient = new HttpClient();
+    List<Articulo> listArticulos = new List<Articulo>();
+    Articulo articulo1 = new Articulo();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            objClient.DefaultRequestHeaders.Authorization = new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer","");
+            ArticuloClient articulo = new ArticuloClient(sBaseAddress,objClient);
+
+            var listResult = await articulo.ObtenerArticuloListAsync();
+
+            listArticulos = JsonConvert.DeserializeObject<List<Articulo>>(listResult.Parameters.ToString());
+            //var result = await articulo.ObtenerArticuloAsync(60);
+            //articulo1 = JsonConvert.DeserializeObject<Articulo>(result.Parameters.ToString());
+
+        }   
+        catch (Exception)
+        {
+
+        };
+    }
+}

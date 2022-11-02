@@ -1,0 +1,212 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria\\BE-Ferreteria.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Data\\BE-Ferreteria.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Data\\BE-Ferreteria.Data.csproj",
+        "projectName": "BE-Ferreteria.Data",
+        "projectPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Data\\BE-Ferreteria.Data.csproj",
+        "packagesPath": "C:\\Users\\nsampini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsampini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj": {
+                "projectPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj",
+        "projectName": "BE-Ferreteria.Models",
+        "projectPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj",
+        "packagesPath": "C:\\Users\\nsampini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsampini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria\\BE-Ferreteria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria\\BE-Ferreteria.csproj",
+        "projectName": "BE-Ferreteria",
+        "projectPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria\\BE-Ferreteria.csproj",
+        "packagesPath": "C:\\Users\\nsampini\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsampini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Data\\BE-Ferreteria.Data.csproj": {
+                "projectPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Data\\BE-Ferreteria.Data.csproj"
+              },
+              "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj": {
+                "projectPath": "C:\\Users\\nsampini\\Source\\Repos\\sampini10\\Ferreteria-Lavalle\\BE-Ferreteria\\BE-Ferreteria.Models\\BE-Ferreteria.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
